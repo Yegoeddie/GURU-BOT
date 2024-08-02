@@ -59,12 +59,12 @@ global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
-global.xmoji = '🔥' 
+global.wait = '*'
+global.rwait = ''
+global.dmoji = ''
+global.done = ''
+global.error = '' 
+global.xmoji = '' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
